@@ -1,0 +1,14 @@
+# Python sanal ortamları
+.venv/
+venv/
+env/
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+
+# VS Code ayarları
+.vscode/
+
+# IDE ayar dosyaları (eğer varsa)
+.idea/
